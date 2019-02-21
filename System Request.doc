@@ -25,6 +25,7 @@ $4,000 in sales per univerity.
 
 
 Project Manager: Timnit Tesfatsion, tt5@umbc.edu
+
 Project Objectives/Business Need: 
 This app will help UMBC save money by making its own app. 
 Long-term, after debug and implementation, UMBC could sell this product to other universities. 
@@ -55,44 +56,33 @@ There are multiple apps on the market that provide tutoring for students.
 In order to gain a big pool of clients, we must complete this project as soon as possible. We would like this app to become mainstream and have students default to our app instead of using other apps that may provide similar resources. 
 
 
-
-
-
-Roles and Responsibilities
-Name
-Role Description
-Bio
-Contact Information
-
-
-Sponsor
-
-
+Name, Roles and Responsibilities, Role Description, Biography, and Contact Information
  
 Timnit Tesfatsion
 Project Manager: I will overlook the overall project from start to finish. Also, I will coordinate meeting times as well as work with each team member to meet deadlines as well as assign responsibilities.
 I am an information Systems major and I have some knowledge with SQL and have experience with project management based on previous class I took. 
 tt5@umbc.edu, (301) 747-8721
+
 Daniel Bae
 Programmer: As the lead programmer, I will oversee and code the basic structure of our app. It will encompass Java, HTML, and SQL code with the possibility of additional languages.
 I have a bachelors in Biological Sciences; I am 24 years old
 dbae1@umbc.edu , (443) 845-8434
+
 Briana Jenkins
 System Design Analyst: takes the both jobs of an system analyst and a computer programmer. I will be designing the design layout in for the app. I will be using the android studio software to complete this task.
-
-
-My name is Briana Jenkins. I am 23 years old, and a senior. 
+I am 23 years old, and a senior. 
 bri20@umbc.edu , (301) 609 -1765
+
 James Choi
 Wonjin(James) Choi - QA/Business Systems Analyst: Ensure software is implemented with the requirements needed. Conduct analysis to create long term business solution.
 I’m a 24 year old senior majoring in information systems.
 choiw1@umbc.edu , (443) 798-5540
+
 Anusha Malla
 QA: I will be manually testing the app and the codes to prevent malfunctioning code or app. 
-
-
 I come from a landlocked country Nepal. I am 21 years old, can speak 4 different languages and a senior in Information Systems.
 vc15539@umbc.edu , (443) 722-9151
+
 Haythem Abdelkhalek
 Database Developer: I will design a fully functional SQL-PL/SQL database with functions, procedures, and triggers that will be the base of the App. 
 Senior Information System’s major working part-time as a database developer.
